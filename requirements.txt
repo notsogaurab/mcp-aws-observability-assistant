@@ -1,0 +1,18 @@
+python-dotenv # For local .env file
+fastapi
+uvicorn[standard]
+fastmcp
+mcp
+boto3
+langchain
+langchain-community
+langchain-openai  # Or langchain-anthropic, langchain-google-genai
+python-dotenv
+chromadb
+langchain-chroma
+
+#### For other cloud providers
+# azure-identity
+# azure-monitor-query
+# google-cloud-logging
+# google-cloud-monitoring
